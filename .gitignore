@@ -1,0 +1,6 @@
+*.json
+__pycache__
+old-version
+packup
+multi-pictures-show
+*.JPG
