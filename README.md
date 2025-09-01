@@ -1,6 +1,3 @@
-opencv-pyside6 相机标定工具
-介绍
-
 基于opencv-pyside6 相机标定GUI工具 ，快速开发
 
 1. 一次导入所有待标定图片，全英文路径
